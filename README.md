@@ -1,6 +1,6 @@
 # Daily LeetCode Problems
 
-Welcome to the **Daily LeetCode Problems** repository! This repository contains my daily solutions to various coding problems from [LeetCode](https://leetcode.com/).
+Welcome to the **LeetCode-Dailies** repository! This repository contains my daily solutions to various coding problems from [LeetCode](https://leetcode.com/).
 
 ## Repository Structure
 
