@@ -4,14 +4,14 @@ Welcome to the **LeetCode-Dailies** repository! This repository contains my dail
 
 ## Repository Structure
 
-Each day, I solve a new LeetCode problem and upload my solution to this repository. The repository is organized by problem difficulty and includes a folder for each category.
+Each day, I solve a new LeetCode problem and upload my solution to this repository. The repository is organized by Data Structure used to solve the problem and includes a folder for each category.
 
 
 ## How to Use This Repository
 
-1. **Navigate by Difficulty**: Choose the problem difficulty level you're interested in (`Easy`, `Medium`, `Hard`).
-2. **Select a Problem**: Inside each folder, you'll find individual files for each problem. The file naming convention is `<problem_number>_<problemname>_<problemdate>.<extension>`.
-   - `.py`, `.java`, or other files contain the solution code in the respective language.
+1. **Navigate by Data Structure**: Choose the Data Structure you're interested in.
+2. **Select a Problem**: Inside each folder, you'll find individual files for each problem. The file naming convention is `<problem_number>_<problemname>.<extension>`.
+   - `.cpp`, `.py`.
 3. **Review Solutions**: Open the file to view the solution and any associated explanations.
 
 ## Daily Progress
