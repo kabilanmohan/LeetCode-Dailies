@@ -4,12 +4,12 @@ Welcome to the **LeetCode-Dailies** repository! This repository contains my dail
 
 ## Repository Structure
 
-Each day, I solve a new LeetCode problem and upload my solution to this repository. The repository is organized by Data Structure used to solve the problem and includes a folder for each category.
+Each day, I solve a new LeetCode problem and upload my solution to this repository. The repository is organized by Data Structures or Algorithms used to solve the problem and includes a folder for each category.
 
 
 ## How to Use This Repository
 
-1. **Navigate by Data Structure**: Choose the Data Structure you're interested in.
+1. **Navigate by Data Structure**: Choose the Data Structure or Algorithm you're interested in.
 2. **Select a Problem**: Inside each folder, you'll find individual files for each problem. The file naming convention is `<problem_number>_<problemname>.<extension>`.
    - `.cpp`, `.py`.
 3. **Review Solutions**: Open the file to view the solution and any associated explanations.
