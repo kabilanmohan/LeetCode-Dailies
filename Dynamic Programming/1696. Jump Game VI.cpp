@@ -4,7 +4,9 @@
     Space complexity : O(n)
     */
 
-
+    /* The solution gave TLE for larger values of K. The naive DP approach given above isnt the solution 
+        as original solution needs to include DP with Priority Queue. Hence to be solved later.
+    */
 class Solution {
 public:
     int maxResult(vector<int>& nums, int k) {
