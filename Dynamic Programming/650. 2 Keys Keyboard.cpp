@@ -4,6 +4,9 @@
     Space complexity : O(n^2)
     */
 
+    /* Normal Recursive code runs in 6ms whereas DP runs in 58ms, the reason is that even though recursive code is O(2^n) , 
+    the test cases aren't large enough to take advantage of memoization and the number of overlapping subproblems are also low.
+    */
 
 class Solution {
 public:
