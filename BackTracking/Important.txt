@@ -1,0 +1,9 @@
+Solve once again:
+
+	1) Word Search
+
+
+Solve by better approach later:
+
+	1) Permutations 2
+	2) Subsets 2 
