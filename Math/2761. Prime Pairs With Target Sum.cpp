@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     // Sieve of Eratosthenes
     void seive(int n , vector<bool> &primes)
     {
